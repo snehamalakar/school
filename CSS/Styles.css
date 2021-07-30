@@ -1,0 +1,276 @@
+body{
+    margin:0%;
+    text-align: center;
+    /* color: aliceblue;  */
+    color: black;
+    /* background-color:#fdfcb2; */
+}
+.ppp{
+    color: rgb(255, 219, 226);
+}
+/* H1 */
+h3{
+    width: 100%;
+    font-size: 4rem;
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+h1{
+    width: 100%; 
+    font-size:6.625rem;
+    margin:0 auto 0 auto; 
+    font-family: 'Sacramento';
+    font-weight: 500;
+    font-style: normal;
+}
+.firsth1{
+    color: cyan; 
+    height: 80px;
+    padding-top: 50px;
+    font-size: 100px;
+}
+ .secondh1{ 
+    color: blue;
+} 
+.thirdh1{
+    color: deeppink;
+    font-family:'Sacramento' ;
+    font-size: 100px;
+    font-weight: 500;
+}
+.ind{
+    color: rgb(116, 14, 189);
+}
+.cy{
+    color: cyan;
+}
+.pnik{
+    color: deeppink;
+}
+.h31{
+    color:rgb(0, 204, 184) ;
+    margin: 0px;
+    padding-bottom: 50px;
+}
+.h34{
+    color: blueviolet;
+    font-family: 'Sacramento';
+    font-size: 75px;
+    font-weight: 600;
+}
+
+/* P */
+
+p{
+    font-size:50px;
+    font-family: 'Zen Tokyo Zoo';
+}
+.p1{
+    font-family: 'Merienda One';
+}
+.p2{
+    font-family: 'Sacramento';
+    margin: 0px auto 0px auto;
+}
+.p3 {
+    font-family: 'Dancing Script';
+    font-weight: 500;
+    text-align: left;
+    margin: 0px auto 0px auto;
+}
+.f2{
+    font-family: 'Dancing Script';
+    font-weight: 500;
+}
+.f2:hover{
+    font-family:'Zen Tokyo Zoo';
+}
+
+/* images */
+
+.firstimage{
+width: 280px;
+}
+.secondimg{
+    width: 300px;
+    border-radius: 50%;
+    text-align: center;
+}
+.image3{
+    width:'25%';
+}
+.laptop{
+    width:32%;
+    float: left;
+    margin-right: 40px;
+    margin-bottom: 10px;
+    background-color:#fd7d79 ;
+    transition: 2s;
+}
+.laptop:hover{
+    background-color: crimson;
+    border-radius: 25%;
+}
+.span2{
+    font-family: 'Merienda One';
+}
+
+/* divs */
+
+.top-container{
+    background-color: black;
+    height: 720px;
+    transform-style:preserve-3d;
+    margin: 0px auto 0px auto;
+}
+.img-container{
+    /* background-color: #AFFFEC; */
+    width: auto;
+    margin: 0px auto 0px auto;
+}
+.second-container{
+    width: auto;
+    height: max-content;
+    text-align: left;
+}
+
+.third-container{
+    
+    height: max-content;
+    margin-bottom: 0px;
+    margin: 0px auto 0px auto;
+}
+.fourth-container{
+    
+    height: 400px;
+    text-align: left;
+    padding-left: 300px;
+} 
+
+/* table */
+
+table{
+    border-color: crimson;
+    border-width:5px ;
+    background-color: black;
+    color: rgb(226, 184, 255);
+    width: 755px;
+    display: inline-table; 
+}
+li{
+    font-family:'Zen Tokyo Zoo';
+}
+
+/* Multicolors */
+
+.c{
+    color: rgb(255, 47, 47);
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+
+.o1{
+    color:orange;
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+
+.l1{
+color: yellow;
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+
+.o2{ 
+color: greenyellow;
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+
+.r{ 
+color: green;
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+
+.f{ 
+color: cyan;
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+.u
+{color: blue;
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+
+
+.l2
+{   color: blueviolet;
+    font-family: 'Zen Tokyo Zoo';
+    font-weight: 500;
+}
+.copyright{
+    color:#33947c;
+    font-size:30px;
+    margin:0px;
+    height: 50px;
+    padding-top: auto ;
+}
+.copywight{
+    background-color: #a5ddcf ;
+    margin:0px;
+    height: 50px;
+}
+
+.btn {
+    background: #0078FF;
+    background-image: -webkit-linear-gradient(top, #0078FF, #85FFD1);
+    background-image: -moz-linear-gradient(top, #0078FF, #85FFD1);
+    background-image: -ms-linear-gradient(top, #0078FF, #85FFD1);
+    background-image: -o-linear-gradient(top, #0078FF, #85FFD1);
+    background-image: -webkit-gradient(to bottom, #0078FF, #85FFD1);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    height: 2px;
+    line-height: 2px;
+    color: #FFFFFF;
+    font-family: Brush Script MT;
+    width: 153px;
+    font-size: 27px;
+    font-weight: 100;
+    padding: 40px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
+ 
+ .btn:hover {
+    border: solid #337FED 1px;
+    background: #85FFD1;
+    background-image: -webkit-linear-gradient(top, #85FFD1, #0078FF);
+    background-image: -moz-linear-gradient(top, #85FFD1, #0078FF);
+    background-image: -ms-linear-gradient(top, #85FFD1, #0078FF);
+    background-image: -o-linear-gradient(top, #85FFD1, #0078FF);
+    background-image: -webkit-gradient(to bottom, #85FFD1, #0078FF);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+ .programing{
+     font-weight: 300px;
+     font-size: 30px;
+     font-family: 'Merienda One' ;
+ }
+ .work{
+     font-size: 20px;
+     font-family:'Dancing Script' ;
+ }
